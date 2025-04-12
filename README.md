@@ -8,7 +8,7 @@
 ### 1. Клонирование репозитория
 ```sh
 git clone https://github.com/komarovGo/test-coffee-shop.git
-cd Partlaner
+cd test-task
 ```
 
 ### 2. Установка зависимостей
