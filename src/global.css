@@ -1,0 +1,19 @@
+
+
+@font-face {
+  font-family: 'Mont';
+  src: url('../public/fonts/MontRegular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap; /* Оптимизация загрузки шрифтов */
+}
+
+*{
+    font-family: 'Mont', sans-serif;;
+}
+
+.wrap{
+    max-width: 1080px;
+    min-height: 1920px;
+    margin: 0 auto;
+}
